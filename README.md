@@ -8,4 +8,44 @@ this is code
 
 居中并且带尺寸的图片: 
 这是图
-![Alt](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9hdmF0YXIuY3Nkbi5uZXQvNy83L0IvMV9yYWxmX2h4MTYzY29tLmpwZw)
+![Alt](https://github.com/didii-ret/-/blob/master/balkouras-nicos-ncOQxZe8Krw-unsplash.jpg)
+这也是是图
+![Alt](https://img-blog.csdnimg.cn/20210316190918570.png)
+
+## 生成一个适合你的列表
+
+- 项目
+  - 项目
+    - 项目
+
+1. 项目1
+2. 项目2
+3. 项目3
+
+- [ ] 计划任务
+- [x] 完成任务
+
+## 创建一个表格
+一个简单的表格是这么创建的：
+项目     | Value
+-------- | -----
+电脑  | $1600
+手机  | $12
+导管  | $1
+## 合理的创建标题，有助于目录的生成
+
+直接输入1次<kbd>#</kbd>，并按下<kbd>space</kbd>后，将生成1级标题。
+输入2次<kbd>#</kbd>，并按下<kbd>space</kbd>后，将生成2级标题。
+以此类推，我们支持6级标题。有助于使用`TOC`语法后生成一个完美的目录。
+
+## 如何改变文本的样式
+
+*强调文本* _强调文本_
+
+**加粗文本** __加粗文本__
+
+==标记文本==
+
+~~删除文本~~
+
+> 引用文本
